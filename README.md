@@ -92,10 +92,9 @@ First sanity check after loading: every row of the module-03 audit returns
 5 pages: Executive Overview · Growth & Funnel · Retention Cohorts ·
 Marketplace Health · Segments & Health Scores.
 Build steps in [powerbi/build_guide.md](powerbi/build_guide.md).
-<!-- After building: add screenshots
 ![Executive Overview](docs/img/page1_overview.png)
 ![Retention Cohorts](docs/img/page3_cohorts.png)
--->
+
 
 ## What this project demonstrates
 
