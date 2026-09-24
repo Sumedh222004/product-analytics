@@ -1,0 +1,7 @@
+# Data generation — pinned range so the seeded dataset reproduces the exact
+# numbers quoted in docs/insights_report.md
+numpy>=2.0,<3
+pandas>=2.0
+
+# Optional: Python loader for SQL Server (scripts/load_to_sqlserver.py)
+# pyodbc>=5.0

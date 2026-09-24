@@ -1,0 +1,11 @@
+# generated data (reproducible via data/generate_data.py, seed=42)
+data/output/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# power bi local temp
+*.pbix.tmp
+~$*
